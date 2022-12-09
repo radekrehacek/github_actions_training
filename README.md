@@ -1,1 +1,2 @@
-# github_actions_training
+# Repo for gh actions practice
+Training GH actions
