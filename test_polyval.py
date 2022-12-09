@@ -22,5 +22,4 @@ def test_eval_poly(poly, expected):
     res = []
     for x in test_x:
         res.append(polyval.eval_poly(poly, x))
-    assert False
     assert res == expected
